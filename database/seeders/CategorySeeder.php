@@ -14,11 +14,11 @@ class CategorySeeder extends Seeder
     {
         $categories = [
             [
-                'category_name' => 'Food',
+                'category_name' => 'Makanan',
                 'description' => 'All kinds of food items',
             ],
             [
-                'category_name' => 'Beverages',
+                'category_name' => 'Minuman',
                 'description' => 'All kinds of drinks and beverages',
             ],
             [

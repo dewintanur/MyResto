@@ -17,22 +17,18 @@ class RoleSeeder extends Seeder
             [
                 'role_name' => 'admin',
                 'description' => 'Administrator with full access',
-                'localized' => 'Admin'
             ],
             [
                 'role_name' => 'cashier',
                 'description' => 'cashier with limited access',
-                'localized' => 'Kasir'
             ],
             [
                 'role_name' => 'chef',
                 'description' => 'chef with basic access',
-                'localized' => 'Koki'
             ],
             [
                 'role_name' => 'customer',
                 'description' => 'customer with basic access',
-                'localized' => 'Pelanggan'
             ],
         ];
 
